@@ -21,3 +21,7 @@ is_happy(false)
 friends(0)
 #how to call the 3rd position in age
 age(2)
+
+# Learning insert method
+#This method will add a new element to my array in any position
+friends.insert(2, "phil")
