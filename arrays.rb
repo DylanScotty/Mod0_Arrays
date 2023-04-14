@@ -9,7 +9,7 @@ friends.pop
 p friends
 
 # push method on age array will add an item to the end of the array
-age.shift(45)
+age.push(45)
 
 p age
 
