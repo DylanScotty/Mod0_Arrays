@@ -13,14 +13,14 @@ age.shift(45)
 cash.shift
 
 # unshift method on is_happy will add a new item to the beginning of the array
-is_happy(false)
+is_happy.unshift(false)
 
 #Index positions 
 #index positions start with 0 and move up by 1. When calling your first position you will always start with 0
 #how to call the first friend 
-friends(0)
+p friends[0]
 #how to call the 3rd position in age
-age(2)
+p age[2]
 
 # Learning insert method
 #This method will add a new element to my array in any position
